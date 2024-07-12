@@ -1,2 +1,1 @@
-# www.mendot.com
-Mendot
+www.mendot.com
